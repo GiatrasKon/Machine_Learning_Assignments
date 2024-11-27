@@ -10,7 +10,7 @@ This repository contains two assignments from the "Machine Learning" graduate co
 - [Konstantinos Giatras](https://github.com/GiatrasKon)
 - [Despina Konstantinidou](https://github.com/dekonstantinidou)
 - [Isidoros Stamatiou](https://github.com/NuncioQ)
-- Christos Vasilopoulos
+- [Christos Vasilopoulos](https://github.com/Randabas)
 
 ## Assignment 1: Regression and Classification Analysis
 
